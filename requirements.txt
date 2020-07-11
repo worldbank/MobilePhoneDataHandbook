@@ -1,0 +1,7 @@
+gpxpy==1.4.1
+folium==0.9.1
+pandas==0.24.0
+scikit-mobility==1.0
+trajectory-utils==0.1
+rdp==0.8
+MDAnalysis==1.0.0
